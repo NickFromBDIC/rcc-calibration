@@ -1,0 +1,6 @@
+numpy==1.26.4
+SimpleITK==2.5.3
+# Install the compiled PyRadiomics build from the radiomics Conda channel first.
+PyWavelets==1.6.0
+pykwalify==1.8.0
+ruamel.yaml==0.17.32

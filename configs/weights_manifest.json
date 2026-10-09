@@ -1,0 +1,149 @@
+{
+  "files": {
+    "radiomics_svc/model.joblib": {
+      "sha256": "aa77162cdc0a328b0d43a24a937dce4818312c12a5ac79b6eb263cc2b515f979",
+      "bytes": 25405,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_image_only/best_model.pt": {
+      "sha256": "ef7705c85b210f0e39d9292f9b03e6d5093175cfda85e7e7f79312e14365181f",
+      "bytes": 132728334,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_concat/best_model.pt": {
+      "sha256": "4ebc0eb734b6058c6cbbe99a9870ce8263516755a6dcc5d86b3509883f861e80",
+      "bytes": 132730702,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_concat/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_cross_attention/best_model.pt": {
+      "sha256": "27c99bfb0a103f0740fd070e4e8ceb1b54a07fc16eaba7e6ba8b7188d68c012b",
+      "bytes": 134392665,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_cross_attention/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_gated/best_model.pt": {
+      "sha256": "f43bb0c9f2225104f3021bea7af87ee4793fdaa78c2e6d72ecfb958657c9f1ea",
+      "bytes": 133935380,
+      "archive": "weights-resnet18.zip"
+    },
+    "resnet18_gated/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-resnet18.zip"
+    },
+    "medicalnet_image_only/best_model.pt": {
+      "sha256": "0894559eaf61e638121444e7e667ece909125a2c0161ff2f99c1ce18f5d820ae",
+      "bytes": 132728334,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_concat/best_model.pt": {
+      "sha256": "009aebbc135fc820070f328cafe60a1c8081d5d6e8b741850aba52ac338fd2eb",
+      "bytes": 132730702,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_concat/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_cross_attention/best_model.pt": {
+      "sha256": "50bc8cd60fd3af12ce26543bd3e3499e8b81dc3aea9d63f340daaa0bf15e94c8",
+      "bytes": 134392665,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_cross_attention/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_gated/best_model.pt": {
+      "sha256": "6bdc628e8f66b311c41e7026bc0a725bcabe948372620461a8040d2e2f9fd3b2",
+      "bytes": 133935380,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medicalnet_gated/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medicalnet.zip"
+    },
+    "medvae2d_image_only/best_model.pt": {
+      "sha256": "1c4b155d7240712c7e7cf78881fc2fe1f29f858a6ba89e45afc2acfe69a81382",
+      "bytes": 230096333,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_concat/best_model.pt": {
+      "sha256": "a50de1240f7d94e6d508b18b0461084d63e18bf74be7936320a71172745b8ec0",
+      "bytes": 232977890,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_concat/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_cross_attention/best_model.pt": {
+      "sha256": "a8675cfa904402d5b34dad55245083a73a3ada6a57f7d33c667675adc10af8bf",
+      "bytes": 235532455,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_cross_attention/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_gated/best_model.pt": {
+      "sha256": "74ae0a64fab3331c4cdfb8abfdf95880f098a8c455c9d11715ead3f851cdfde4",
+      "bytes": 231301459,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae2d_gated/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae2d.zip"
+    },
+    "medvae3d_image_only/best_model.pt": {
+      "sha256": "e34ae2063f4415a50bc2d40b4d4ae32ada1ef080ae211a6cbd32ee50bf2c617e",
+      "bytes": 672411049,
+      "archive": "weights-medvae3d-1.zip"
+    },
+    "medvae3d_concat/best_model.pt": {
+      "sha256": "6f955b5d77ee06a6400d0b704166c4a6143f15e0d27b06377c8e944dcbe7534b",
+      "bytes": 679948419,
+      "archive": "weights-medvae3d-1.zip"
+    },
+    "medvae3d_concat/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae3d-1.zip"
+    },
+    "medvae3d_cross_attention/best_model.pt": {
+      "sha256": "af01858949b349c42c0cf1667af93c9213ca7dbc469d4b1ec9c85fc9c7aeecae",
+      "bytes": 679948419,
+      "archive": "weights-medvae3d-2.zip"
+    },
+    "medvae3d_cross_attention/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae3d-2.zip"
+    },
+    "medvae3d_gated/best_model.pt": {
+      "sha256": "05fc98a04c2332f7fc56e2a688a72619771f76d9fa1c0a2cce9d5ca795fe74ea",
+      "bytes": 679948419,
+      "archive": "weights-medvae3d-2.zip"
+    },
+    "medvae3d_gated/radiomics_scaler.npz": {
+      "sha256": "d3058ebe121b769f70a8a3795f195244898aeaf02e423dc83d09b07a927a1b30",
+      "bytes": 19154,
+      "archive": "weights-medvae3d-2.zip"
+    }
+  }
+}
